@@ -55,8 +55,6 @@ Data preprocessing and feature selection pipeline to improve ML model prediction
 ## 📫 Connect with me
 
 - ✉️ **Email:** jibranakhtar98@gmail.com
-- 💼 **LinkedIn:** *(add your link here)*
-- 🌐 **Portfolio:** *(add your portfolio link here)*
 - 📍 Lahore, Pakistan - available for remote work
 
 ---
