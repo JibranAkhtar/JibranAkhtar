@@ -20,7 +20,7 @@ I'm a first-year Computer Science student at Government College University Lahor
 - 📚 Studying CS at GCU Lahore (BS, class of 2028)
 - 🛠️ Building web projects and exploring machine learning
 - 💼 Open to freelance web dev and AI/data science work
-- 🧠 Currently learning: Algorithms, Assembly (8086), Automata Theory, Linear Algebra
+- 🧠 Currently learning: Algorithms, OOP, fundamentals, Data Strucctures.
 
 ---
 
