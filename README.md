@@ -31,10 +31,10 @@ Real-time accident detection system that automatically notifies emergency contac
 `C++` `Firebase` `Node.js` `MySQL` `Vercel`
 
 ### 🎓 College Society Website
-Responsive multi-page site for a university society — events, announcements, member info. Built under competitive time constraints.  
+Responsive multi-page site for a university society - events, announcements, member info. Built under competitive time constraints.  
 `HTML` `CSS` `C++`
 
-### 📊 ML Data Pipeline *(Internship — Arch Technology Solutions)*
+### 📊 ML Data Pipeline *(Internship - Arch Technology Solutions)*
 Data preprocessing and feature selection pipeline to improve ML model prediction accuracy on large customer datasets.  
 `Python` `Pandas` `Scikit-learn`
 
@@ -57,7 +57,7 @@ Data preprocessing and feature selection pipeline to improve ML model prediction
 - ✉️ **Email:** jibranakhtar98@gmail.com
 - 💼 **LinkedIn:** *(add your link here)*
 - 🌐 **Portfolio:** *(add your portfolio link here)*
-- 📍 Lahore, Pakistan — available for remote work
+- 📍 Lahore, Pakistan - available for remote work
 
 ---
 
