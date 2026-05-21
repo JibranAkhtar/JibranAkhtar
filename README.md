@@ -11,7 +11,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-I'm a first-year Computer Science student at Government College University Lahore, building things for the web and exploring AI/ML. I interned as an AI/ML Engineer at Arch Technology Solutions where I worked on data pipelines and predictive modeling. I'm currently open to freelance projects, remote internships, and collaborations.
+I'm a third-year Computer Science student at Government College University Lahore, building things for the web and exploring AI/ML. I interned as an AI/ML Engineer at Arch Technology Solutions where I worked on data pipelines and predictive modeling. I'm currently open to freelance projects, remote internships, and collaborations.
 
 ---
 
