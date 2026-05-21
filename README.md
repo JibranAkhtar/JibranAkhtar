@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jibran Akhtar
 
-**CS Student · Aspiring Software Developer · Open to Work**
+**CS Student · Software Developer · Open to Work**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -20,7 +20,7 @@ I'm a third-year Computer Science student at Government College University Lahor
 - 📚 Studying CS at GCU Lahore (BS, class of 2028)
 - 🛠️ Building web projects and exploring machine learning
 - 💼 Open to freelance web dev and AI/data science work
-- 🧠 Currently learning: Algorithms, OOP, fundamentals, Data Strucctures.
+- 🧠 firm grasp on: Algorithms, OOP, fundamentals, Data Strucctures.
 
 ---
 
